@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1658432621 source:c:\users\ashraf\desktop\transport-mangement-system\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+	<vector>
+	<iomanip>
+	"include/Header.h"
+
+1577086758 c:\users\ashraf\desktop\transport-mangement-system\include\header.h
+	"Date.h"
+	"Journey.h"
+	"Cars.h"
+	"Buses.h"
+	"Trucks.h"
+	"Passengers.h"
+	"Goods.h"
+	"LinkedList.h"
+
+1577093490 c:\users\ashraf\desktop\transport-mangement-system\include\date.h
+
+1577069812 c:\users\ashraf\desktop\transport-mangement-system\include\journey.h
+	"book_record.h"
+
+1577011606 c:\users\ashraf\desktop\transport-mangement-system\include\book_record.h
+
+1577093936 c:\users\ashraf\desktop\transport-mangement-system\include\cars.h
+	"Wilderness.h"
+
+1576939686 c:\users\ashraf\desktop\transport-mangement-system\include\wilderness.h
+	"Transport.h"
+
+1577093406 c:\users\ashraf\desktop\transport-mangement-system\include\transport.h
+	"LinkedList.h"
+
+1577084328 c:\users\ashraf\desktop\transport-mangement-system\include\linkedlist.h
+
+1577094222 c:\users\ashraf\desktop\transport-mangement-system\include\buses.h
+	"Wilderness.h"
+
+1577093912 c:\users\ashraf\desktop\transport-mangement-system\include\trucks.h
+	"Wilderness.h"
+
+1577093406 c:\users\ashraf\desktop\transport-mangement-system\include\passengers.h
+	"Aerial.h"
+
+1576939670 c:\users\ashraf\desktop\transport-mangement-system\include\aerial.h
+
+1577100836 c:\users\ashraf\desktop\transport-mangement-system\include\goods.h
+	"Aerial.h"
+
